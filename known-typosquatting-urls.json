@@ -54,7 +54,6 @@
   { "domain": "rediit.com" },
   { "domain": "reddlt.com" },
   { "domain": "redidt.com" },
-  { "domain": "redidit.com" },
 
 
   { "domain": "linkedn.com" },
@@ -68,9 +67,6 @@
   { "domain": "micosoft.com" },
   { "domain": "micrsoft.com" },
   { "domain": "microsft.com" },
-
-
-  { "domain": "sptify.com" },
 
   { "domain": "appple.com" },
   { "domain": "appoel.com" },
@@ -125,7 +121,6 @@
   { "domain": "paypol.com" },
   { "domain": "paypall.com" },
   { "domain": "paypai.com" },
-  { "domain": "palpay.com" },
 
   { "domain": "adobee.com" },
   { "domain": "adboe.com" },
@@ -200,5 +195,8 @@
   { "domain": "star1ingbank.com" },
   { "domain": "starl1ng.com" },
   { "domain": "starllng.com" },
-  { "domain": "starrling.com" }
+  { "domain": "starrling.com" },
+
+  { "domain": "gmai.com" },
+  { "domain": "gmial.com" }
 ]
